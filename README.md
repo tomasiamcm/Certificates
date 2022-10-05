@@ -17,3 +17,10 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 14 - Reajustar salário </br>
 15 - Converter temperatura </br>
 16 - Calcular valor aluguel de carro </br>
+17 - Aula: importanto módulos </br>
+18 - Quebrar números
+19 - Calcular Cateto e Hipotenusa
+20 - Calcular Seno, Cosseno e Tangente
+21 - Sorteio
+22 - Sorteio - ordem
+23 - Tocar mp3
