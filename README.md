@@ -1,5 +1,6 @@
 Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 
+<h3> Módulo I </h3></br>
 0 - Exibir mensagem na tela </br>
 1 - Usar função input </br>
 2 - Realizar soma de 2 números </br>
@@ -30,4 +31,13 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 27 - Procurando String</br>
 28 - Verificando quando uma letra aparece dentro da string</br>
 29 - Verificando o 1º e último nome de uma pessoa</br>
-30 - </br>
+30 - Jogo de Advinhação </br>
+31 - Radar Eletrônico </br>
+32 - Par ou Impar </br>
+33 - Custo da Viagem </br>
+34 - Ano Bissexto </br>
+35 - Maior e menor valores </br>
+36 - Aumentos múltiplos </br>
+37 - Analisando triângulo </br>
+
+<h3> Módulo II </h3></br>
