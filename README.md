@@ -41,3 +41,4 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 37 - Analisando triângulo </br>
 
 <h3> Módulo II </h3></br>
+
