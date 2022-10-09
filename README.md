@@ -41,4 +41,8 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 37 - Analisando triângulo </br>
 
 <h3> Módulo II </h3></br>
-
+36 - Aprovando empréstimo
+37 - Conversor base numérica
+38 - Comparando números
+39 - Alistamento Militar
+40 - Calcula média
