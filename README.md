@@ -46,3 +46,8 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 38 - Comparando números </br>
 39 - Alistamento Militar </br>
 40 - Calcula média </br>
+41 - Classificando atletas </br>
+42 - Analisando triangulos v2.0 </br>
+43 - Índice de massa corporal </br>
+44 - Gerenciador de pagamentos </br>
+45 - Game: Pedra, Papel e Tesoura</br>
