@@ -50,4 +50,4 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 42 - Analisando triangulos v2.0 </br>
 43 - Índice de massa corporal </br>
 44 - Gerenciador de pagamentos </br>
-45 - Game: Pedra, Papel e Tesoura</br>
+45 - Game: Pedra, Papel e Tesoura </br>
