@@ -1,9 +1,9 @@
-peso = float(input('Informe seu peso: '))
+peso = float(input('Informe seu peso: (Kg)'))
 altura = float(input('Informe sua altura: '))
 
-imc = peso / altura
+imc = peso / (altura ** 2)
 
-print('Seu IMC é {:.2f}.'.format(imc))
+print('Com o peso de {:.1f} Kg e a altura de {:.2f} m o seu IMC é {:.2f}.'.format(peso, altura, imc))
 
 if imc < 18.5:
     print('Você está abaixo do peso ideal.')
