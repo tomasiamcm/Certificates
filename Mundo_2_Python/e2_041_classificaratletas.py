@@ -1,9 +1,13 @@
-from mailbox import MaildirMessage
-from sys import set_coroutine_origin_tracking_depth
+idade = int(input('Informe a idade: '))
 
+if idade < 9:
+    print('')
+elif idade < 14:
+    print('Infantil')
+elif idade < 19:
+    print('Júnior')
+elif idade < 20:
+    print('Sênior')
+else:
+    print('Master')
 
-ate 9 anos 
-14 infantil
-19 - junior
-20 - senior
-master
