@@ -1,18 +1,17 @@
-from __future__ import all_feature_names
-from imp import PY_RESOURCE
+peso = float(input('Informe seu peso: '))
+altura = float(input('Informe sua altura: '))
 
+imc = peso / altura
 
-peso
-altura
+print('Seu IMC é {:.2f}.'.format(imc))
 
-
-imc
-
-
-18.5 abaixo do peso
-
-25 peso ideal
-
-30 - sobrepeso
-40 - obesidade
-obesidade morbida
+if imc < 18.5:
+    print('Você está abaixo do peso ideal.')
+elif imc < 25:
+    print('Você está no peso ideal.')
+elif imc < 30:
+    print('Você está com sobrepeso')
+elif imc < 40:
+    print('Você está com obesidade.')
+else:
+    print('Você está com obesidade morbida.')
