@@ -53,3 +53,6 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 45 - Game: Pedra, Papel e Tesoura </br>
 46 - Contagem regressiva </br>
 47 - Contagem de pares </br>
+48 - Soma ímpares multiplus de 3 </br>
+49 - Tabuada v2.0 </br>
+50 - Soma de pares </br>
