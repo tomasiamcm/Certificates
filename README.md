@@ -56,3 +56,9 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 48 - Soma ímpares multiplus de 3 </br>
 49 - Tabuada v2.0 </br>
 50 - Soma de pares </br>
+51 - Progressão aritmética </br>
+52 - Números primos </br>
+53 - Detector de palíndromo </br>
+54 - Grupo da maioridade </br>
+55 - Maior e menor da sequência </br>
+56 - Analisador completo </br>
