@@ -1,4 +1,5 @@
 # Ler 6 números inteiros e mostre a soma dos valores pares.
+
 soma = 0
 cont = 0
 
