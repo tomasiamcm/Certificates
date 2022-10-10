@@ -51,3 +51,5 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 43 - Índice de massa corporal </br>
 44 - Gerenciador de pagamentos </br>
 45 - Game: Pedra, Papel e Tesoura </br>
+46 - Contagem regressiva </br>
+47 - Contagem de pares </br>
