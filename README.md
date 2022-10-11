@@ -71,4 +71,11 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 63 - Sequência de FIbonacci </br>
 64 - Tratando vários valores </br>
 65 - Maior e menor valores </br>
-66 - 
+66 - Vários números com flag </br>
+67 - Tabuada v3.0 </br>
+68 - Jogo do Par ou Ímpar </br>
+69 - Análise de dados do grupo </br>
+70 - Estatísticas em produtos </br>
+71 - Simulador de Caixa Eletrônico </br>
+
+<h3> Módulo III </h3></br>
