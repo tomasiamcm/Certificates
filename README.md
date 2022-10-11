@@ -68,4 +68,7 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 60 - Cálculo de fatorial </br>
 61 - Progressão aritmética v2.0 </br>
 62 - Super progressão aritmética v3.0 </br>
-
+63 - Sequência de FIbonacci </br>
+64 - Tratando vários valores </br>
+65 - Maior e menor valores </br>
+66 - 
