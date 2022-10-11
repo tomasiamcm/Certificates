@@ -62,3 +62,10 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 54 - Grupo da maioridade </br>
 55 - Maior e menor da sequência </br>
 56 - Analisador completo </br>
+57 - Validação de dados </br>
+58 - Jogo de advinhação </br>
+59 - Criando um menu de opções </br>
+60 - Cálculo de fatorial </br>
+61 - Progressão aritmética v2.0 </br>
+62 - Super progressão aritmética v3.0 </br>
+
