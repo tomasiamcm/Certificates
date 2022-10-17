@@ -77,6 +77,8 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 69 - Análise de dados do grupo </br>
 70 - Estatísticas em produtos </br>
 71 - Simulador de Caixa Eletrônico </br>
+
+<h3> Módulo III </h3></br>
 72 - Número por extenso </br>
 73 - Tuplas com times de futebol </br>
 74 - Maior e menor valores em tupla </br>
@@ -84,4 +86,3 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 76 - Lista de preços com tupla </br>
 77 - Contando vogais em tupla </br>
 
-<h3> Módulo III </h3></br>
