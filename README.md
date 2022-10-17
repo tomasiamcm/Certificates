@@ -85,4 +85,10 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 75 - Análise de dados em tupla </br>
 76 - Lista de preços com tupla </br>
 77 - Contando vogais em tupla </br>
+78 - Maior e menor valores em lista </br>
+79 - Valores únicos em lista </br>
+80 - Lista ordenada e sem repetições </br>
+81 - Extraindo dados da lista </br>
+82 - Dividinho valores em várias listas </br>
+83 - Validando expressões matemáticas </br>
 
