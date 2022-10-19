@@ -91,4 +91,11 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 81 - Extraindo dados da lista </br>
 82 - Dividinho valores em várias listas </br>
 83 - Validando expressões matemáticas </br>
+84 - Lista composta e análise de dados </br>
+85 - Listas com pares e ímpares </br>
+86 - Matriz em Python </br>
+87 - Matriz em Python 2 </br>
+88 - Palpites de Jogo Mega Sena </br>
+89 - Boletim com listas compostas </br>
+
 
