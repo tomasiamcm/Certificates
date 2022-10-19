@@ -29,7 +29,7 @@ print(f'A soma da 3ª coluna é: {soma_coluna3}')
 
 for coluna in range(0, 3):
     if coluna == 0:
-        max = matriz[1][coluna]
-    elif matriz[1][coluna] > max:
-        max = matriz[1][coluna]
+        max_coluna2 = matriz[1][coluna]
+    elif matriz[1][coluna] > max_coluna2:
+        max_coluna2 = matriz[1][coluna]
 print(f'O maior valor da 2ª linha é: {max_coluna2}')
