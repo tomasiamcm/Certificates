@@ -5,24 +5,24 @@ No final, tudo isso será guardado em um dicionário, incluindo o total de gols 
 '''
 
 dados = {}
+gols_partida = []
 dados['nome'] = str(input('Nome do jogador: '))
 dados['partidas'] = int(input(f'Quantas partidas {dados["nome"]} jogou? '))
-
-dados['total_gols'] = 0
-
-for c in dados['partidas']:
-    dados['gols'] = int(input(f'Quantos gols na partida {c}?'))
-    dados['total_gols'] += dados['gols']
+for c in range(0, dados['partidas']):
+    gols_partida.append(int(input(f'Quantos gols na partida {c+1}?')))
+    dados['total_gols'] = sum(gols_partida)
+dados['gols'] = gols_partida[:]
 
 print('-=' * 30)
 print(dados)
 print('-=' * 30)
-for k, v in dados:
+for k, v in dados.items():
     print(f'O campo {k} tem o valor {v}')
 print('-=' * 30)
-print(f'O jogador {dados["nome"]} jogou {dados["partidas"]}.', end='')
+print(f'O jogador {dados["nome"]} jogou {dados["partidas"]} partidas.')
+print()
 for i, v in enumerate(dados):
     print(f'=> Na partida {i+1} ele fez {dados["gols"]} gols.')
-print(f'Foi um total de {dados["total_gols"]}')
+print(f'Foi um total de {dados["total_gols"]} gols.')
 print('-=' * 30)
 print(f'O jogador {dados["nome"]} fez {dados["total_gols"]} gols em {dados["partidas"]} partidas.')
