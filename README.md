@@ -97,5 +97,10 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 87 - Matriz em Python 2 </br>
 88 - Palpites de Jogo Mega Sena </br>
 89 - Boletim com listas compostas </br>
-
+90 - Dicionários </br>
+91 - Jogo de dados </br>
+92 - Cadastro de trabalhador </br>
+93 - Cadastro de jogador de futebol </br>
+94 - Unindo dicionário e listas </br>
+95 - Aprimorando dicionários </br>
 
