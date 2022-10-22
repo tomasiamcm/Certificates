@@ -104,8 +104,13 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 094 - Unindo dicionário e listas </br>
 095 - Aprimorando dicionários </br>
 096 - Função calcular área </br>
-097 - Print especial</br>
-098 - Função contador</br>
-099 - Função para descobrir o maior número</br>
-100 - Função para sortear números</br>
-101
+097 - Print especial </br>
+098 - Função contador </br>
+099 - Função para descobrir o maior número </br>
+100 - Função para sortear números </br>
+101 - Função votação </br>
+102 - Função fatorial </br>
+103 - Ficha jogador </br>
+104 - Validando entrada de dados </br>
+105 - Analisando e gerando dicionário </br>
+106 - Interactive Help System </br>
