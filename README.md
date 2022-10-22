@@ -108,4 +108,4 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 098 - Função contador</br>
 099 - Função para descobrir o maior número</br>
 100 - Função para sortear números</br>
-
+101
