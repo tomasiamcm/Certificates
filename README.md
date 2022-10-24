@@ -120,6 +120,6 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 110 - Reduzindo ainda mais seu programa </br>
 111 - Transformando módulos em pacotes </br>
 112 - Entrada de dados monetários </br>
-113 - 
-114 - 
-
+113 - Funções aprodundadas </br>
+114 - Site está acessível? </br>
+115 - Criando sistema de cadastro com menu </br>
