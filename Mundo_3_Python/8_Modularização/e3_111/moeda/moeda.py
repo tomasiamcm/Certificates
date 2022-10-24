@@ -33,3 +33,4 @@ def resumo(preco=0, taxaa=10, taxad=13):
     print(f'Decréscimo de 13% é de \t{diminuir(preco, taxad, True):>10}')
     print('-' * 35)
 
+
