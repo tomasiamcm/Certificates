@@ -114,3 +114,12 @@ Exercicios práticos em Python - Curso em video com Gustavo Guanabara
 104 - Validando entrada de dados </br>
 105 - Analisando e gerando dicionário </br>
 106 - Interactive Help System </br>
+107 - Exercitando módulos </br>
+108 - Formatando moedas </br>
+109 - FOrmatando moedas 2 </br>
+110 - Reduzindo ainda mais seu programa </br>
+111 - Transformando módulos em pacotes </br>
+112 - Entrada de dados monetários </br>
+113 - 
+114 - 
+
